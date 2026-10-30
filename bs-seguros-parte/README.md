@@ -1,4 +1,4 @@
-# BS Seguros (React Native / Expo) — parte Arthur, Thauan e Laís
+# BS Seguros (React Native / Expo)
 
 Telas: Início (launcher), Minhas apólices, Detalhe da apólice e PDF, Assistência 24h, Indique amigos, Notificações.
 
